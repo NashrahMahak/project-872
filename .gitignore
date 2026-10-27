@@ -3,9 +3,3 @@
 *.tfstate.*
 crash.log
 *.tfvars
-EOFcat << 'EOF' > .gitignore
-.terraform/
-*.tfstate
-*.tfstate.*
-crash.log
-*.tfvars
